@@ -1,4 +1,6 @@
-
+import { ContainBar, MainContainer } from "./compenent/mainContainer";
+import { NavBar } from "./compenent/navbar";
+import style from "./style.css"
 
 
 function App() {
@@ -6,14 +8,9 @@ function App() {
     <div className="App">
       <header className="App-header">
       
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a>
-         
-          Learn React
-        </a>
       </header>
+      <NavBar></NavBar>
+      <MainContainer/>
     </div>
   );
 }

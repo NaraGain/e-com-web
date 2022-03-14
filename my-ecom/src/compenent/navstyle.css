@@ -1,0 +1,20 @@
+.navbar{
+    background-color:rgba(4, 14, 41, 0.867);
+    padding: 15px;
+    height: 40px;
+    border-bottom: 1px solid rgb(211, 211, 211);
+display: flex;
+align-items: stretch;
+    
+
+}
+input {
+    padding: 5px;
+    border: 1px solid rgb(223, 223, 223);
+    width: 50%;
+    flex-grow: 8;
+    
+ 
+    
+    
+}

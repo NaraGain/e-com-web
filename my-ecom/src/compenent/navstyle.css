@@ -1,20 +1,26 @@
+
+
+.Header{
+    background-color: #f1f1f1;
+    padding: 30px;
+    text-align: center;
+}
+
 .navbar{
     background-color:rgba(4, 14, 41, 0.867);
-    padding: 15px;
+    padding: 10px;
     height: 40px;
     border-bottom: 1px solid rgb(211, 211, 211);
-display: flex;
-align-items: stretch;
-    
+overflow: hidden;
+
 
 }
+
 input {
     padding: 5px;
     border: 1px solid rgb(223, 223, 223);
     width: 50%;
-    flex-grow: 8;
+    margin-top: 5px;
     
- 
-    
-    
+
 }

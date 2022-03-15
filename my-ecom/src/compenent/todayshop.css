@@ -1,0 +1,22 @@
+.today-shop{
+  padding: 3rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.item-box{
+    margin-left: 5px;
+}
+.product-img{
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+    
+
+}
+
+.product-desc{
+    background-color: white;
+    height: 80px;
+    width: 200px;
+}

@@ -6,7 +6,22 @@ import navstyle from "./navstyle.css";
 
 export function NavBar(){
 
-    return <div className="navbar">
-      <InputFeild ></InputFeild>
+    return <div>
+       <div className="Header">
+      
+      <div>
+    
+      </div>
+     
+     </div>
+       <div className="navbar">
+      
+      <div>
+      <InputFeild ></InputFeild> 
+      </div>
+     
+     </div>
     </div>
+    
+   
 }
